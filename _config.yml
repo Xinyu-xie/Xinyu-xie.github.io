@@ -8,13 +8,13 @@ first_name: Xinyu
 last_name: Xie
 email: xinyu_xie@msstate.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Jingyu Song - Cognitive Science PhD Candidate @ Mississippi State University | Multi-Modal Perception & 3D Scene Understanding.
+  Xinyu - Cognitive Sicence PhD Candidate @ Mississippi State University | Strategy Selection & Problem Solving.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-keywords: Jingyu-Song, umich, Song-Jingyu # add your own keywords or leave empty
+keywords: Xinyu Xie, msstate, cognitive science # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: 👦 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: 🌧️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://Xinyu-xie.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
@@ -77,7 +77,7 @@ dblp_url: # your DBLP profile url
 discord_id: # your discord id (18-digit unique numerical identifier)
 facebook_id: # your facebook id
 flickr_id: # your flickr id
-github_username: Song-Jingyu # your GitHub user name
+github_username: Xinyu-xie # your GitHub user name
 gitlab_username: # your GitLab user name
 ieee_id: # your ieeexplore.ieee.org/author/id
 inspirehep_id: # Inspire HEP author ID
@@ -86,7 +86,7 @@ kaggle_id: # your kaggle id
 keybase_username: # your keybase user name
 lastfm_id: # your lastfm id
 lattes_id: # your ID on Lattes (Brazilian Lattes CV)
-linkedin_username: jingyu-song-93763a132 # your LinkedIn user name
+linkedin_username: xinyu-xie-91b2b4198 # your LinkedIn user name
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 medium_username: # your Medium username
 orcid_id: # your ORCID ID
@@ -95,7 +95,7 @@ pinterest_id: # your pinterest id
 publons_id: # your ID on Publons
 quora_username: # your Quora username
 research_gate_profile: # your profile on ResearchGate
-scholar_userid: UqSOfcQAAAAJ # your Google Scholar ID
+scholar_userid: 8x6WpXcAAAAJ # your Google Scholar ID
 scopus_id: # your profile on Scopus
 semanticscholar_id: # your Semantic Scholar ID
 spotify_id: # your spotify id
@@ -312,8 +312,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Song]
-  first_name: [Jingyu]
+  last_name: [Xie]
+  first_name: [Xinyu]
 
   style: apa
   locale: en
