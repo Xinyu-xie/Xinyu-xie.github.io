@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://Song-Jingyu.github.io/sitemap.xml
+Sitemap: https://Xinyu-xie.github.io/sitemap.xml
