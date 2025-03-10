@@ -1,0 +1,12 @@
+github_users:
+  - Song-Jingyu
+
+repo_description_lines_max: 2
+
+github_repos:
+  - Song-Jingyu/PointPainting
+  - umfieldrobotics/TURTLMap
+  - Song-Jingyu/CRKD
+  - Song-Jingyu/LiRaFusion
+  - UMich-CURLY/3DMapping
+  - UMich-CURLY/NeuralBKI
