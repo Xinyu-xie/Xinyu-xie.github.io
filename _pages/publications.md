@@ -3,7 +3,7 @@ layout: page
 permalink: /publications/
 title: publications
 description: A list of selected publications.
-nav: true
+nav: false
 nav_order: 2
 ---
 You can also check my <a href='https://scholar.google.com/citations?user=UqSOfcQAAAAJ&hl=en/'> Google Scholar</a>.

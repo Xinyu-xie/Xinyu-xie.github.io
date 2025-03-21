@@ -3,7 +3,7 @@ layout: page
 permalink: /repositories/
 title: repositories
 description: I highly recognize the importance of open-source software and I am an active contributor to the community. Here are some of my repositories.
-nav: true
+nav: false
 nav_order: 4
 ---
 
