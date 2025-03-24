@@ -1,13 +1,13 @@
 ---
 layout: page
-title: submenus
+title: Download
 nav: true
 nav_order: 7
 dropdown: true
 children:
-  - title: teaching
-    permalink: /teaching/
+  - title: CV
+    permalink: /CV/
   # - title: divider
-  - title: conferences
-    permalink: /conferences/
+  - title: Resume
+    permalink: /Resume/
 ---
