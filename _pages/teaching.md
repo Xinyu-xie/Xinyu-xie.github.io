@@ -18,9 +18,11 @@ I teach the PSY 3713 Cognitive Psychology course at the Mississippi State Univer
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ensndBa2L9g?si=nKj0k7J0rvssUXFA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
 
 ---
-layout: page
+layout: about
 title: teaching
 permalink: /teaching/
+nav: true
+nav_order: 6
 subtitle: What did I teach?
 
 profile:
