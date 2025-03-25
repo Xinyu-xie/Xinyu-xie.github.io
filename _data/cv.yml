@@ -1,188 +1,97 @@
-# - title: General Information
-#   type: map
-#   contents:
-#     - name: Full Name
-#       value: Xinyu Xie
-#     - name: Date of Birth
-#       value: 14th March 1879
-#     - name: Languages
-#       value: English, German
-
-# - title: Education
-#   type: time_table
-#   contents:
-#     - title: PhD
-#       institution: University of Zurich, Zurich, Switzerland
-#       year: 1905
-#       description:
-#         - Description 1.
-#         - Description 2.
-#         - title: Description 3.
-#           contents:
-#             - Sub-description 1.
-#             - Sub-description 2.
-#     - title: Federal teaching diploma
-#       institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-#       year: 1900
-#       description:
-#         - Description 1.
-#         - Description 2.
-
-# - title: Experience
-#   type: time_table
-#   contents:
-#     - title: Professor of Theoretical Physics
-#       institution: Institute for Advanced Study, Princeton University
-#       year: 1933 - 1955
-#       description:
-#         - Description 1.
-#         - Description 2.
-#         - title: Description 3.
-#           contents:
-#             - Sub-description 1.
-#             - Sub-description 2.
-#     - title: Visiting Professor
-#       institution: California Institute of Technology, Pasadena, California, US
-#       year: 1933
-#       description:
-#         - Description 1.
-#         - Description 2.
-
-#     - title: Director
-#       institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-#       year: 1917-1933
-
-#     - title: Professor of Theoretical Physics
-#       institution: Karl-Ferdinand University, Prague, Czechoslovakia
-#       year: 1911 - 1917
-#       description:
-
-#     - title: Associate Professor of Theoretical Physics
-#       institution: University of Zurich, Zurich, Switzerland
-#       year: 1909 - 1911
-
-# - title: Open Source Projects
-#   type: time_table
-#   contents:
-#     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-#       year: 2015-now
-#       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-# - title: Honors and Awards
-#   type: time_table
-#   contents:
-#     - year: 1921
-#       items:
-#         - Nobel Prize in Physics
-#         - Matteucci Medal
-#     - year: 2029
-#       items:
-#         - Max Planck Medal
-
-# - title: Academic Interests
-#   type: nested_list
-#   contents:
-#     - title: Topic 1.
-#       items:
-#         - Description 1.
-#         - Description 2.
-#     - title: Topic 2.
-#       items:
-#         - Description 1.
-#         - Description 2.
-
-# - title: Other Interests
-#   type: list
-#   contents:
-#     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
-
-# Mine
 - title: General Information
   type: map
   contents:
     - name: Full Name
       value: Xinyu Xie
-    - name: Phone
-      value: +1 (662) 497-0702
-    - name: Email
-      value: xx86@msstate.edu
-    - name: Last Updated
-      value: April 15, 2024
+    - name: Date of Birth
+      value: 14th March 1879
+    - name: Languages
+      value: English, German
 
 - title: Education
   type: time_table
   contents:
-    - title: Ph.D. in Psychology, Cognitive Science
-      institution: Mississippi State University, Starkville, USA
-      year: 2021 - Present
+    - title: PhD
+      institution: University of Zurich, Zurich, Switzerland
+      year: 1905
       description:
-        - GPA: 4.0/4.0
-        - Advisor: Dr. Jarrod Moss
-    - title: M.S. in Psychology
-      institution: Mississippi State University, Starkville, USA
-      year: 2021 - 2024
-    - title: B.S. in Applied Psychology
-      institution: Beijing Forestry University, Beijing, China
-      year: 2016 - 2020
+        - Description 1.
+        - Description 2.
+        - title: Description 3.
+          contents:
+            - Sub-description 1.
+            - Sub-description 2.
+    - title: Federal teaching diploma
+      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
+      year: 1900
       description:
-        - GPA: 3.68/4.0
+        - Description 1.
+        - Description 2.
 
 - title: Experience
   type: time_table
   contents:
-    - title: Research Assistant, Problem Solving and Learning Lab
-      institution: Mississippi State University, Starkville, USA
-      year: 08/2021 - Present
+    - title: Professor of Theoretical Physics
+      institution: Institute for Advanced Study, Princeton University
+      year: 1933 - 1955
       description:
-        - Designed and conducted studies on task representation and strategy selection in problem solving (144 participants).
-        - Compared theoretical predictions regarding strategy selection (approx. 430 participants).
-        - Prepared and submitted manuscripts, conference papers, and abstracts.
-        - Developed expertise in experimental design, data analysis, academic writing, and presentation.
-    - title: Research Assistant, Social Cognition and Neuroeconomics Lab
-      institution: Southwest University, Chongqing, China
-      year: 04/2019 - 05/2019
+        - Description 1.
+        - Description 2.
+        - title: Description 3.
+          contents:
+            - Sub-description 1.
+            - Sub-description 2.
+    - title: Visiting Professor
+      institution: California Institute of Technology, Pasadena, California, US
+      year: 1933
       description:
-        - Assisted with a tDCS experiment on future outcome preferences; collected data from 20 participants.
-        - Processed questionnaire data for a voxel-based morphometry study.
-        - Gained experience in tDCS, fMRI preprocessing, and visualization.
-    - title: Undergraduate Thesis: The Impact of Episodic Future Thinking on Intertemporal Decision
-      institution: Beijing Forestry University, Beijing, China
-      year: 12/2019 - 06/2020
-      description:
-        - Designed and validated questionnaires for experimental materials.
-        - Developed an E-prime program for an intertemporal decision task.
-        - Collected data from 30 participants and achieved a top 5% thesis score.
-    - title: National College Student's Innovation and Entrepreneurship Training Program
-      institution: Beijing Forestry University, Beijing, China
-      year: 04/2018 - 05/2019
-      description:
-        - Designed and conducted experiments using E-prime.
-        - Led pilot and formal studies; collected data from 30 participants.
-        - Completed data analysis and manuscript writing; presented findings at a national conference.
-    - title: Talent Acquisition & Mobility Assistant (Intern)
-      institution: Schneider-Electric (China) Ltd. R&D Center, Shanghai, China
-      year: 08/2020 - 01/2021
-      description:
-        - Coordinated interview arrangements for over 70 candidates weekly.
-        - Participated in a global campus hiring project managing independent headcounts.
-    - title: Service and Volunteer Work
-      institution: Various Organizations
-      year: 09/2017 - 06/2018
-      description:
-        - Assisted at the “Rainbow Baby” Children Psychological Intervention Center.
-        - Contributed to community recycling projects (04/2018).
+        - Description 1.
+        - Description 2.
 
-- title: Teaching Experience
+    - title: Director
+      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
+      year: 1917-1933
+
+    - title: Professor of Theoretical Physics
+      institution: Karl-Ferdinand University, Prague, Czechoslovakia
+      year: 1911 - 1917
+      description:
+
+    - title: Associate Professor of Theoretical Physics
+      institution: University of Zurich, Zurich, Switzerland
+      year: 1909 - 1911
+
+- title: Open Source Projects
   type: time_table
   contents:
-    - title: Teaching Assistant
-      institution: Mississippi State University, Starkville, USA
-      year: 01/2025 - Present
-      description:
-        - Being an instructor for PSY-3713 Cognitive Psychology course, with a 50 class size.
+    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+      year: 2015-now
+      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
-- title: Skills
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 1921
+      items:
+        - Nobel Prize in Physics
+        - Matteucci Medal
+    - year: 2029
+      items:
+        - Max Planck Medal
+
+- title: Academic Interests
+  type: nested_list
+  contents:
+    - title: Topic 1.
+      items:
+        - Description 1.
+        - Description 2.
+    - title: Topic 2.
+      items:
+        - Description 1.
+        - Description 2.
+
+- title: Other Interests
   type: list
   contents:
-    - Programming: Python, R
-    - Tools: SPSS, Linux, LaTeX
+    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
