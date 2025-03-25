@@ -7,7 +7,7 @@ subtitle: Xinyu Xie | 谢馨雨 - PhD Candidate @ <a href='https://www.psycholog
 profile:
   align: right
   image: magruder.JPG
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p>Starkville, MS, 2022.07</p>
 
