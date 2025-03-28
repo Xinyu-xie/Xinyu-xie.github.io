@@ -1,10 +1,10 @@
 ---
 layout: page
-permalink: /teaching/
-title: Teaching
+permalink: /research/
+title: Research
 description: A work in progress page.
 nav: true
-nav_order: 6
+nav_order: 5
 ---
 <!-- Centered, circular image -->
 <div style="text-align: center;">
