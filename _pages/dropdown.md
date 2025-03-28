@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Download
-nav: false
+nav: true
 nav_order: 7
 dropdown: true
 children:

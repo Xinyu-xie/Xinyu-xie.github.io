@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Xinyu Xie | 谢馨雨 - PhD Candidate @ <a href='https://www.psychology.msstate.edu/graduate-programs/cognitive-science-program'>Msstate Cognitive Science</a>
 
