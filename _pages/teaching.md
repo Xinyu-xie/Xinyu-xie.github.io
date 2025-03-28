@@ -6,16 +6,16 @@ description: A work in progress page.
 nav: true
 nav_order: 6
 ---
-<!-- Centered, circular image -->
+
 <div style="text-align: center;">
-  <!-- Make sure teaching.JPG is in a place Jekyll can serve, e.g. /assets/images/teaching.JPG -->
+  <!-- Display the image at its natural aspect ratio, up to the page width -->
   <img src="{{ '/assets/img/teaching.png' }}"
        alt="Teaching"
-       style="border-radius: 50%; width: 200px; height: 200px; object-fit: cover;">
+       style="max-width: 100%; height: auto;">
+       
+  <!-- Centered text -->
   <p>Starkville, MS, 2025.02</p>
+  <p>I teach the PSY 3713 Cognitive Psychology course at the Mississippi State University.</p>
 </div>
-
-<!-- Your main content -->
-I teach the PSY 3713 Cognitive Psychology course at the Mississippi State University.
 
 

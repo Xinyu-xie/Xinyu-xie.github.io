@@ -6,8 +6,7 @@ nav_order: 7
 dropdown: true
 children:
   - title: CV
-    permalink: /CV/
-  # - title: divider
+    url: /assets/pdf/CV_Xinyu_Xie.pdf
   - title: Resume
-    permalink: /Resume/
+    url: /assets/pdf/Resume_Xinyu_Xie.pdf
 ---
