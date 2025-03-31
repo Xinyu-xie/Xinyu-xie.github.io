@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: page
 permalink: /research/
 title: Research
@@ -6,7 +6,7 @@ description: A work in progress page.
 nav: true
 nav_order: 5
 ---
-## My Conferences
+## My Projects Presented at Conferences
 <!-- Project 3 -->
 <div style="display: flex; align-items: center; margin-bottom: 2em;">
   <div style="flex: 1; text-align: center;">
@@ -46,6 +46,60 @@ nav_order: 5
     <h3>Working Memory Capacity Predicts More Effective Problem Space Exploration</h3>
     <p>Why are some people able to explore a problem space more effectively? We used a simple problem-solving task in which problems can be solved quickly within five moves but with a problem space containing 40-60 distinct states. Problem-solving in this task consists of many attempts to solve the problem, but only one solution works. Across these attempts, participants sometimes repeat an attempt from earlier. Exploratory analyses were conducted on data from 70 problems and six individual difference measures for each of 147 participants. We hypothesized that working memory capacity (WMC) would be associated with a higher proportion of unique attempts. WMC was calculated from two complex span tasks. Higher WMC was associated with a higher proportion of unique attempts and faster solution times. Higher WMC was also associated with more self-terminated solution attempts as opposed to being forced to restart the problem after seven moves by the system.</p>
   </div>
+</div> -->
+
+
+---
+layout: page
+permalink: /research/
+title: "Research"
+nav: true
+nav_order: 5
+---
+
+# My Conferences
+
+<style>
+/* Basic card styling */
+.conference-card {
+  background: #f9f9f9;      /* Light grey background */
+  border-radius: 6px;       /* Slightly rounded corners */
+  padding: 1rem;            /* Spacing inside the card */
+  margin-bottom: 1.5rem;    /* Spacing between cards */
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1); /* Subtle shadow */
+}
+
+.conference-card h3 {
+  margin-top: 0;            /* Remove default margin on top */
+  margin-bottom: 0.5rem;    /* Space below heading */
+}
+</style>
+
+<div class="conference-card">
+  <h3>Comparing Theories that Posit A Role for Task Features in Strategy Selection</h3>
+  <p>
+    A short abstract or summary about the talk/paper.  
+    You can link to more info, e.g. <a href="http://example.com">Conference Website</a>.
+  </p>
 </div>
 
+<div class="conference-card">
+  <h3>Interaction Between Recency Effect and Strategy Preferences in Problem Solving</h3>
+  <p>
+    Another short description about this project or presentation.
+    Include any references, or highlight interesting findings.
+  </p>
+</div>
 
+<div class="conference-card">
+  <h3>Working Memory Capacity Predicts More Effective Problem Space Exploration</h3>
+  <p>
+    A quick summary of the research. You can embed images, bullet points, or
+    additional resources. For instance:
+    <ul>
+      <li>Motivation for the study</li>
+      <li>Key findings</li>
+      <li>Future directions</li>
+    </ul>
+  </p>
+</div>
