@@ -15,7 +15,7 @@ nav_order: 5
          style="width: 200px; height: 200px; object-fit: cover;">
   </div>
   <div style="flex: 2; margin-left: 1em;">
-    <h3>Comparing Theories that Posit A Role for Task Features in Strategy Selection</h3>
+    <h3>Comparing Theories that Posit A Role for Task Features in Strategy Selection <a class="pdf-link" href="/assets/pdf/Cogsci_Poster_2024_final.pdf" target="_blank">[Poster]</a></h3>
     <div class="meta">
       <span class="authors"><strong>Authors:</strong> Xinyu Xie, Jarrod Moss</span>
       <span class="conference"><strong>Conference:</strong> CogSci 2024, Rotterdam</span>
@@ -32,7 +32,7 @@ nav_order: 5
          style=" width: 200px; height: 200px; object-fit: cover;">
   </div>
   <div style="flex: 2; margin-left: 1em;">
-    <h3>Interaction Between Recency Effect and Strategy Preferences in Problem Solving</h3>
+    <h3>Interaction Between Recency Effect and Strategy Preferences in Problem Solving <a class="pdf-link" href="/assets/pdf/posterPsychonomics23.pdf" target="_blank">[Poster]</a></h3>
     <div class="meta">
       <span class="authors"><strong>Authors:</strong> Xinyu Xie, Jarrod Moss</span>
       <span class="conference"><strong>Conference:</strong> Psychonomic 2023, San Francisco</span>
@@ -51,7 +51,7 @@ nav_order: 5
   </div>
   <!-- Right column: description -->
   <div style="flex: 2; margin-left: 1em;">
-    <h3>Working Memory Capacity Predicts More Effective Problem Space Exploration</h3>
+    <h3>Working Memory Capacity Predicts More Effective Problem Space Exploration <a class="pdf-link" href="/assets/pdf/Xinyu_Xie_poster.pdf" target="_blank">[Poster]</a></h3>
     <div class="meta">
       <span class="authors"><strong>Authors:</strong> Xinyu Xie, Jarrod Moss</span>
       <span class="conference"><strong>Conference:</strong> CogSci 2022, Toronto</span>
