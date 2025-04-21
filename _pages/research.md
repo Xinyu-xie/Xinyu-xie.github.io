@@ -2,7 +2,7 @@
 layout: page
 permalink: /research/
 title: Research
-description: A work in progress page.
+# description: A work in progress page.
 nav: true
 nav_order: 5
 ---

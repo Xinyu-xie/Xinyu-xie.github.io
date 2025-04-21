@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: A work in progress page.
+# description: A work in progress page.
 nav: true
 nav_order: 6
 ---
