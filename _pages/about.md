@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Xinyu Xie | 谢馨雨 
+subtitle: 谢馨雨 | Pronounced like “Sheen-yoo Shee-eh”
 # - PhD Candidate @ <a href='https://www.psychology.msstate.edu/graduate-programs/cognitive-science-program'>Msstate Cognitive Science</a>
 
 profile:
