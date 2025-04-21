@@ -23,4 +23,4 @@ I am a fourth year PhD candidate at the <a href='https://www.psychology.msstate.
 
 <!-- I am interested in the intersection of robotics, computer vision, and deep learning, with a focus on multi-modal perception, state estimation and mapping for 3D scene understanding. I am also interested in the application of these technologies in autonomous driving and field robotics. -->
 
-My research interests lie in the intersection of problem solving, strategy selection, and individual differences. In particular, my work investigates: 1. How task representation affects strategy selection in problem solving; 2. How strategy selection associates with individual differences.
+My research interests lie in the intersection of problem solving, strategy selection, and individual differences. In particular, my work investigates: 1. How task representation affects strategy selection in problem solving; 2. How strategy selection associates with individual differences. 3. What are the underlying cognitive mechanisms and practical consequences of strategy switching?
