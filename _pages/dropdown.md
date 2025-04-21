@@ -7,7 +7,7 @@ dropdown: true
 children: 
     - title: CV
       newtab: true
-      permalink: /assets/pdf/CV_Xinyu_Xie.pdf
+      permalink: /assets/pdf/Xinyu_CV_Revised.pdf
     - title: Resume
       newtab: true
       permalink: /assets/pdf/Resume_Xinyu_Xie_2025.pdf
