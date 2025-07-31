@@ -2,13 +2,13 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: A list of my publications and conference presentations.
+
 nav: true
 nav_order: 5
 ---
 
 <div style="margin-bottom: 20px;">
-  <p>You can also check my <a href='https://scholar.google.com/citations?user=UqSOfcQAAAAJ&hl=en/' style="color: #007bff;">Google Scholar profile</a> for the most up-to-date list.</p>
+  <p>You can also check my <a href='https://scholar.google.com/citations?user=8x6WpXcAAAAJ=en/' style="color: #007bff;">Google Scholar profile</a> for the most up-to-date list.</p>
 </div>
 
 <!-- Bibsearch Feature -->

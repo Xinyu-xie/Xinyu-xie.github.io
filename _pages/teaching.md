@@ -65,7 +65,7 @@ nav_order: 6
       </h3>
       
       <p style="color: #6c757d; margin-bottom: 15px; font-style: italic;">
-        Graduate Teaching Assistant, Mississippi State University, Psychology Department, 2024-2025
+        Graduate Teaching Assistant, Mississippi State University, Psychology Department, 2025 Spring - Present
       </p>
       
       <div style="margin-bottom: 20px;">
