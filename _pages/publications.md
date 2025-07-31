@@ -4,7 +4,7 @@ permalink: /publications/
 title: Publications
 description: A list of my publications and conference presentations.
 nav: true
-nav_order: 4
+nav_order: 5
 ---
 
 <div style="margin-bottom: 20px;">

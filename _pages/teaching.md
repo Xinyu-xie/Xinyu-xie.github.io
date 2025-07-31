@@ -13,8 +13,8 @@ nav_order: 6
     
     <!-- Profile Image -->
     <div style="text-align: center; margin-bottom: 20px;">
-      <img src="{{ '/assets/img/magruder.JPG' }}" 
-           alt="Xinyu Xie" 
+      <img src="{{ '/assets/img/teaching.png' }}" 
+           alt="Teaching" 
            style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover; border: 3px solid #dee2e6;">
     </div>
     
@@ -45,12 +45,7 @@ nav_order: 6
       
       <div style="margin-bottom: 8px;">
         <i class="fab fa-google" style="width: 16px; margin-right: 8px; color: #6c757d;"></i>
-        <a href="#" style="color: #007bff; text-decoration: none;">Google Scholar</a>
-      </div>
-      
-      <div style="margin-bottom: 8px;">
-        <i class="fab fa-orcid" style="width: 16px; margin-right: 8px; color: #6c757d;"></i>
-        <a href="#" style="color: #007bff; text-decoration: none;">ORCID</a>
+        <a href="https://scholar.google.com/citations?user=8x6WpXcAAAAJ" style="color: #007bff; text-decoration: none;">Google Scholar</a>
       </div>
       
       <div style="margin-bottom: 8px;">
@@ -84,19 +79,6 @@ nav_order: 6
           <li><strong>Learning Environment:</strong> Created a supportive learning environment that fostered student understanding</li>
         </ul>
       </div>
-    </div>
-    
-    <!-- Teaching Experience 2 -->
-    <div style="margin-bottom: 40px;">
-      <h3 style="color: #5bc0de; margin-bottom: 10px;">
-        <a href="#" style="color: #5bc0de; text-decoration: underline;">Previous Teaching Experience</a>
-      </h3>
-      
-      <p style="color: #6c757d; margin-bottom: 15px; font-style: italic;">
-        Teaching Assistant, Mississippi State University, Psychology Department, 2021-2024
-      </p>
-      
-      <p>Assisted with various undergraduate psychology courses, providing support in laboratory sessions, grading, and student mentorship. Gained valuable experience in curriculum development and student assessment.</p>
     </div>
     
     <!-- Teaching Philosophy -->

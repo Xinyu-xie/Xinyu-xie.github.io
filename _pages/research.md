@@ -3,7 +3,7 @@ layout: page
 permalink: /research/
 title: Research
 nav: true
-nav_order: 5
+nav_order: 4
 ---
 
 <div style="display: flex; gap: 30px; margin-top: 20px;">
@@ -34,8 +34,8 @@ nav_order: 5
         <li>Strategy Selection</li>
         <li>Individual Differences</li>
         <li>Working Memory</li>
-        <li>Cognitive Psychology</li>
-        <li>Recency Effects</li>
+        <li>Cognitive Control</li>
+        <li>Computational Modeling</li>
       </ul>
     </div>
     
@@ -58,12 +58,7 @@ nav_order: 5
       
       <div style="margin-bottom: 8px;">
         <i class="fab fa-google" style="width: 16px; margin-right: 8px; color: #6c757d;"></i>
-        <a href="https://scholar.google.com/citations?user=UqSOfcQAAAAJ&hl=en/" style="color: #007bff; text-decoration: none;">Google Scholar</a>
-      </div>
-      
-      <div style="margin-bottom: 8px;">
-        <i class="fab fa-orcid" style="width: 16px; margin-right: 8px; color: #6c757d;"></i>
-        <a href="#" style="color: #007bff; text-decoration: none;">ORCID</a>
+        <a href="https://scholar.google.com/citations?user=8x6WpXcAAAAJ" style="color: #007bff; text-decoration: none;">Google Scholar</a>
       </div>
       
       <div style="margin-bottom: 8px;">
@@ -95,9 +90,26 @@ nav_order: 5
     
     <!-- Publications Section -->
     <div style="margin-bottom: 40px;">
-      <h2 style="color: #333; margin-bottom: 20px;">Selected Publications</h2>
+      <h2 style="color: #333; margin-bottom: 20px;">Selected Work</h2>
       
-      <!-- Publication 1 -->
+      <!-- Publication 1 - New Journal Article -->
+      <div style="border: 1px solid #dee2e6; border-radius: 8px; padding: 20px; margin-bottom: 20px;">
+        <h3 style="color: #5bc0de; margin-bottom: 10px; font-size: 1.1em;">
+          Task representation and individual differences affect strategy selection and problem-solving performance
+        </h3>
+        <p style="color: #6c757d; margin-bottom: 10px; font-style: italic;">
+          <strong>Xinyu Xie</strong>, Jarrod Moss • Frontiers in Psychology • March 2025
+        </p>
+        <p style="line-height: 1.5; margin-bottom: 10px;">
+          This study investigates how task representation and individual differences affect strategy selection and problem-solving performance. Our findings contribute to understanding the cognitive mechanisms underlying strategic choices in problem-solving contexts.
+        </p>
+        <div style="font-size: 0.9em;">
+          <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1445200/full" target="_blank" style="color: #007bff; margin-right: 15px;">[Article]</a>
+          <span style="background-color: #dc3545; color: white; padding: 2px 8px; border-radius: 12px; font-size: 0.8em;">Front. Psychol.</span>
+        </div>
+      </div>
+      
+      <!-- Publication 2 -->
       <div style="border: 1px solid #dee2e6; border-radius: 8px; padding: 20px; margin-bottom: 20px;">
         <h3 style="color: #5bc0de; margin-bottom: 10px; font-size: 1.1em;">
           Comparing Theories that Posit A Role for Task Features in Strategy Selection
@@ -114,7 +126,7 @@ nav_order: 5
         </div>
       </div>
       
-      <!-- Publication 2 -->
+      <!-- Publication 3 -->
       <div style="border: 1px solid #dee2e6; border-radius: 8px; padding: 20px; margin-bottom: 20px;">
         <h3 style="color: #5bc0de; margin-bottom: 10px; font-size: 1.1em;">
           Interaction Between Recency Effect and Strategy Preferences in Problem Solving
@@ -131,7 +143,7 @@ nav_order: 5
         </div>
       </div>
       
-      <!-- Publication 3 -->
+      <!-- Publication 4 -->
       <div style="border: 1px solid #dee2e6; border-radius: 8px; padding: 20px; margin-bottom: 20px;">
         <h3 style="color: #5bc0de; margin-bottom: 10px; font-size: 1.1em;">
           Working Memory Capacity Predicts More Effective Problem Space Exploration
@@ -161,7 +173,7 @@ nav_order: 5
       <div style="background-color: #fff3cd; border: 1px solid #ffeaa7; border-radius: 8px; padding: 20px;">
         <h4 style="color: #856404; margin-top: 0; margin-bottom: 10px;">Ongoing Research</h4>
         <p style="margin: 0; color: #856404;">
-          Currently investigating the cognitive mechanisms underlying strategy selection in complex problem-solving tasks, with a focus on how individual differences in working memory and executive control influence strategic choices.
+          Currently investigating the cognitive mechanisms underlying strategy selection and switching in problem-solving tasks, with a focus on how individual differences in cognitive control influence this process.
         </p>
       </div>
     </div>
