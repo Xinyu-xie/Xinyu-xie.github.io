@@ -11,6 +11,9 @@ children:
     - title: Resume
       newtab: true
       permalink: /assets/pdf/Resume_Xinyu_Xie_2025.pdf
+    - title: CogSci Supplementary Material
+      newtab: true
+      permalink: /assets/pdf/Poster_SF.pdf
 ---
 
 <!-- ---
